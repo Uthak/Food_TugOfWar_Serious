@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+Food_TugOfWar_Serious/[Ll]ibrary/
+Food_TugOfWar_Serious/[Tt]emp/
+Food_TugOfWar_Serious/[Oo]bj/
+Food_TugOfWar_Serious/[Bb]uild/
+Food_TugOfWar_Serious/[Bb]uilds/
+Food_TugOfWar_Serious/[Ll]ogs/
+Food_TugOfWar_Serious/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !Food_TugOfWar_Serious/[Aa]ssets/**/*.meta
